@@ -4,7 +4,7 @@
 </head>
 <body style="text-align: center">
 <h1>Congratulations!!! ;)</h1>
-<p><strong>Enjoy Your Life!</strong></p>
+<p><strong>Enjoy Your Life with Sergio!</strong></p>
 <img src="boxfuse.png">
 
 <h2>You have successfully launched your Instance!</h2>
